@@ -1,11 +1,27 @@
 body{color: #000000;
-    font-family:"Roboto";
+    font-family:"Roboto", sans-serif;
     background-color:E5E5E5;
 }
 .page-title{font-weight: 700;
-    
-    
+    .header-logo{
+        font-weight: 700;
+font-size: 18px;
 
+// line-height: 21px; 
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42;
+    }
+    .header-logo-stail{}
+    font-weight: 700;
+    font-size: 18px;
+    
+    // line-height: 21px; 
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .section-title{font-weight: 700;
 
