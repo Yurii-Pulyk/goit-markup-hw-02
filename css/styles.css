@@ -2,17 +2,20 @@ body{color: #000000;
     font-family:"Roboto", sans-serif;
     background-color:E5E5E5;
 }
-.page-title{font-weight: 700;
-.header-logo{
+
+/*TODO---- Header---- */
+    .page-title{font-weight: 700;}
+    .header-loggo {
+
  font-weight: 700;
 font-size: 18px;
 
-// line-height: 21px; 
+ line-height: 21px; 
 line-height: 1.16;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
-    }
+color: #2e2f42;}
+    
     .header-logo-stail{}
     font-weight: 700;
     font-size: 18px;
@@ -30,4 +33,156 @@ h3 {font-weight: 500;
 }
 p {font-weight: 400;
     ;}
-    
+
+    /*TODO----Hero---- */
+
+    .hero {
+    }
+
+    .hero-title {
+        font-weight: 700;
+        font-size: 56px;
+        
+        // line-height: 60px; 
+        line-height: 1.08;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+    }
+    .hero-btn {
+
+    }
+
+    /*TODO----Feature---- */
+    .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        border: 0;
+        padding: 0;
+        
+        white-space: nowrap;
+        clip-path: inset(100%);
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+      }
+
+    .features {
+    }
+
+    .features-list {
+    }
+
+    .feature-item {
+    }
+
+    .feature-subtitle {
+        font-weight: 500;
+font-size: 20px;
+
+// line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+    }
+
+    .feature-item-text {
+        font-weight: 400;
+font-size: 16px;
+
+// line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+    }
+
+/*TODO----Team---- */
+.team {
+}
+.team-titel {
+    font-weight: 700;
+font-size: 36px;
+
+// line-height: 40px; 
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+    font-weight: 500;
+font-size: 20px;
+
+// line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.team-subtitle-text {
+    font-weight: 400;
+font-size: 16px;
+
+// line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+/*TODO----portfolio---- */
+.portfolio {
+}
+.portfolio-title {
+    font-weight: 700;
+font-size: 36px;
+
+// line-height: 40px; 
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-subtitel {
+    font-weight: 500;
+font-size: 20px;
+
+// line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.portfolio-subtitel-text {
+    font-weight: 400;
+font-size: 16px;
+
+// line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/*TODO----Footer---- */
+.footer-loggo {
+}
+
+.footer-text {
+    font-weight: 400;
+font-size: 16px;
+
+// line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
