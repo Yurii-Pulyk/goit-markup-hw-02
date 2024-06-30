@@ -38,6 +38,7 @@ p {font-weight: 400;
     /*TODO----Hero---- */
 
     .hero {
+        background: #d9d9d9, rgba(0, 0, 0, 0.2);
     }
 
     .hero-title {
@@ -49,7 +50,7 @@ p {font-weight: 400;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-        background: #d9d9d9, rgba(0, 0, 0, 0.2);
+        
     }
     .hero-btn {
         font-weight: 500;
@@ -117,7 +118,7 @@ font-size: 36px;
 // line-height: 40px; 
 line-height: 1.11;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #2e2f42;
 }
 .team-list {
@@ -133,7 +134,7 @@ font-size: 20px;
 // line-height: 24px; 
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #2e2f42;
 }
 .team-subtitle-text {
@@ -143,7 +144,7 @@ font-size: 16px;
 // line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #434455;
 }
 /*TODO----portfolio---- */
@@ -156,7 +157,7 @@ font-size: 36px;
 // line-height: 40px; 
 line-height: 1.11111;
 letter-spacing: 0.02em;
-text-align: center;
+
 color: #2e2f42;
 }
 .portfolio-list {
@@ -184,6 +185,9 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 /*TODO----Footer---- */
+.footer{
+    background: #2e2f42;
+}
 .footer-loggo {
     font-weight: 700;
 font-size: 18px;
@@ -193,7 +197,7 @@ line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
-background: #2e2f42;
+
 }
 .footer-logo-stail{
     font-weight: 700;
@@ -204,7 +208,7 @@ background: #2e2f42;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    background: #2e2f42;
+    
 }
 .footer-text {
     font-weight: 400;
