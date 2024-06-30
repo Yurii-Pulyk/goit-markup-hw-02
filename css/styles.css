@@ -38,7 +38,7 @@ p {font-weight: 400;
     /*TODO----Hero---- */
 
     .hero {
-        background: #d9d9d9, rgba(0, 0, 0, 0.2);
+        background:  rgba(0, 0, 0, 0.2);
     }
 
     .hero-title {
@@ -48,7 +48,7 @@ p {font-weight: 400;
         // line-height: 60px; 
         line-height: 1.08;
         letter-spacing: 0.02em;
-        text-align: center;
+        
         color: #fff;
         
     }
@@ -60,7 +60,7 @@ p {font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        
 background: #4d5ae5;
     }
 
