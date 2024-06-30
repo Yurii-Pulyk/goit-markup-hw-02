@@ -1,6 +1,12 @@
 body{color: #000000;
     font-family:"Roboto", sans-serif;
-    
+}
+address
+{font-style: normal;}
+button
+{cursor: pointer;}
+a {
+    text-decoration: none;
 }
 
 /*TODO---- Header---- */
@@ -9,7 +15,7 @@ body{color: #000000;
         font-weight: 700;
         font-size: 18px;
         
-        // line-height: 21px; 
+        line-height: 21px; 
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
@@ -20,20 +26,30 @@ body{color: #000000;
     font-weight: 700;
 font-size: 18px;
 
-// line-height: 21px; 
-line-height: 1.16667;
+line-height: 21px; 
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
     font-family: "Raleway", sans-serif;
 }
-.section-title{font-weight: 700;
+.header-menu-list {
+}
+.header-menu-item {
+}
+.header-menu-link {
+}
+
+
+.header-address-list {
 
 }
-h3 {font-weight: 500;
+.header-address-mailo {
 }
-p {font-weight: 400;
-    ;}
+.header-address-tel {
+}
+
+
 
     /*TODO----Hero---- */
 
@@ -45,7 +61,7 @@ p {font-weight: 400;
         font-weight: 700;
         font-size: 56px;
         
-        // line-height: 60px; 
+        line-height: 60px; 
         line-height: 1.08;
         letter-spacing: 0.02em;
         
@@ -56,14 +72,16 @@ p {font-weight: 400;
         font-weight: 500;
         font-size: 16px;
         
-        // line-height: 24px; 
+        line-height: 24px; 
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        
-background: #4d5ae5;
+        background: #4d5ae5;
     }
-
+    .hero-btn:hover {
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background: #404bbf;
+    }
     /*TODO----Feature---- */
     .visually-hidden {
         position: absolute;
