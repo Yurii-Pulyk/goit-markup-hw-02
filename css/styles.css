@@ -61,12 +61,12 @@ color: #434455;
 .header-menu-address :focus{
     color: #404bbf;
 }
-.header-menu-link :hover{
+.header-menu-list :hover{
     color: #404bbf;
 }
-.header-menu-link :focus{
+.header-menu-list :focus{
     color: #404bbf;}
-    
+
 .header-address-list {
 
 }
