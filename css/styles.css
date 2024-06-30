@@ -204,7 +204,7 @@ color: #f4f4fd;
     font-size: 18px;
     
     // line-height: 21px; 
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -218,5 +218,5 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
-background: #2e2f42;
+
 }
