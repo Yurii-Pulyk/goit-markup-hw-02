@@ -1,6 +1,6 @@
 body{color: #000000;
     font-family:"Roboto", sans-serif;
-    background-color:E5E5E5;
+    
 }
 
 /*TODO---- Header---- */
@@ -18,12 +18,14 @@ body{color: #000000;
     
     .header-logo-stail{}
     font-weight: 700;
-    font-size: 18px;
-     line-height: 21px; 
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+font-size: 18px;
+
+// line-height: 21px; 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
 .section-title{font-weight: 700;
 
@@ -187,12 +189,23 @@ color: #434455;
 font-size: 18px;
 
 // line-height: 21px; 
-line-height: 1.17;
+line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: #f4f4fd;
+background: #2e2f42;
 }
-
+.footer-logo-stail{
+    font-weight: 700;
+    font-size: 18px;
+    
+    // line-height: 21px; 
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    background: #2e2f42;
+}
 .footer-text {
     font-weight: 400;
 font-size: 16px;
@@ -201,4 +214,5 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
+background: #2e2f42;
 }
