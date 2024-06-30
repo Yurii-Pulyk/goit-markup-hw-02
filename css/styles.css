@@ -48,13 +48,7 @@ font-family: "Roboto", sans-serif;
 }
 
 .header-menu-address {
-    font-weight: 400;
-font-size: 16px;
-
-line-height: 24px; 
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+    
 }
 .header-menu-address :hover{
     color: #404bbf;
@@ -72,8 +66,22 @@ color: #434455;
 
 }
 .header-address-mailo {
+    font-weight: 400;
+    font-size: 16px;
+    
+    line-height: 24px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .header-address-tel {
+    font-weight: 400;
+    font-size: 16px;
+    
+    line-height: 24px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 
