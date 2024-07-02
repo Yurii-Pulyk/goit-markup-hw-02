@@ -82,6 +82,10 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.header-address-mailo:hover{
+    color: #404bbf;}
+.header-address-mailo:focus{
+    color: #404bbf;}
 .header-address-tel {
     font-weight: 400;
     font-size: 16px;
@@ -91,6 +95,10 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.header-address-tel:hover{
+    color: #404bbf;}
+.header-address-tel:focus{
+    color: #404bbf;}
 
 
 
