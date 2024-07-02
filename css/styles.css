@@ -11,6 +11,9 @@ a {
 }
 
 /*TODO---- Header---- */
+.navigation{
+    color: #2E2F42;
+}
     .page-title{font-weight: 700;
     }
     .header-loggo {
