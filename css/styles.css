@@ -3,11 +3,18 @@ body{color:#434455 ;
     background-color: #FFFFFF;
 }
 address
-{font-style: normal;}
+{
+    font-style: normal;
+}
 button
-{cursor: pointer;}
+{
+    cursor: pointer;
+}
 a {
     text-decoration: none;
+}
+ul:{
+    list-style: none;
 }
 
 /*TODO---- Header---- */
